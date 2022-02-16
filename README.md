@@ -1,2 +1,2 @@
 # Animal_Image_Classification
-A project using PyTorch and TorchVision to develop a convolutional neural network able to classify color images of different species of animals.
+A project using TorchVision to develop a convolutional neural network (CNN) able to classify color images of different species of animals.
