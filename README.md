@@ -1,2 +1,2 @@
 # Animal_Image_Classification
-A project using TorchVision to develop a convolutional neural network (CNN) able to classify color images of 151 different species of animals.
+A project using TensorFlow to develop a convolutional neural network (CNN) able to classify color images of 151 different species of animals.
