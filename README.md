@@ -1,5 +1,5 @@
 # Animal_Image_Classification
-A project using TensorFlow and Keras to develop a convolutional neural network (CNN) able to classify color images of 151 different species of animals.
+A project using TensorFlow and Keras to develop a convolutional neural network (CNN) able to classify color images of 151 different species of animals. Custom functions used from Kaggle.
 
 Data was gathered from Kaggle (source: https://www.kaggle.com/sharansmenon/animals141). Images were originally obtained via Google Image search. Some images contain watermarks, signatures, or other identifying features unrelated to the animal or species.
 
